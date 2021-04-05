@@ -1,0 +1,47 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: beige;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron {
+    background-color: black;
+}
+.card2 {
+    padding-top: 20px;
+}
+.carousel-inner {
+    width: 1200px;
+    height: 300px;
+    padding-top: 20px;
+}
+.card1 {
+    display: flex;
+    justify-content: space-around;
+}
+.btn-primary {
+    background-color: #ebb831;
+    color: black;
+}
+.Trends{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.card-text {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+blockquote {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 300px;
+}
+.dropdown-menu {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.form-inline { 
+    font-family: 'Frank Ruhl Libre', serif;
+}

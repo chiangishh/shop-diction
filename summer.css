@@ -1,0 +1,17 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #FC8F32;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.carousel-inner {
+    padding-top: 10px;
+}
+.catalogue{
+    display: flex;
+    justify-content: center;
+}
+h1{ 
+    font-size: 60px;
+}
